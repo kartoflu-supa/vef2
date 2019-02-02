@@ -1,8 +1,8 @@
 - name: Home
-  link: vef2/
+  link: _site/
 - name: About
-  link: vef2/about.html
+  link: _site/about.html
 - name: Blog
-  link: vef2/blog.html
+  link: _site/blog.html
 - name: Staff
-  link: vef2/staff.html
+  link: _site/staff.html
